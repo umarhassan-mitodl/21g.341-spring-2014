@@ -1,0 +1,41 @@
+leftnav:
+- identifier: e605be34-f02b-fc17-430d-c615194cdf8f
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: b424650c-04ed-5031-adc1-75587d75dfd8
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 859b54d0-841a-5e56-caab-2efbd4246963
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 5bdc1269-0961-3ac0-4dac-82399c310d6d
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: fa1869e7-8ad1-0469-3b43-21b226c3c65e
+  name: "R\xE9ponses"
+  pageRef: /pages/assignments/reponses
+  parent: 5bdc1269-0961-3ac0-4dac-82399c310d6d
+  weight: 50
+- identifier: a9c7b447-6d5a-1ed8-a274-44f1fe4f8958
+  name: Premier papier
+  pageRef: /pages/assignments/premier-papier
+  parent: 5bdc1269-0961-3ac0-4dac-82399c310d6d
+  weight: 60
+- identifier: 121e0d04-de17-24bf-3f2e-bb0ee337a341
+  name: Papier de Recherche
+  pageRef: /pages/assignments/papier-de-recherche
+  parent: 5bdc1269-0961-3ac0-4dac-82399c310d6d
+  weight: 70
+- identifier: 78575acb-1ab9-1daf-45e8-f889230f6ee1
+  name: "Pr\xE9sentation"
+  pageRef: /pages/assignments/presentation
+  parent: 5bdc1269-0961-3ac0-4dac-82399c310d6d
+  weight: 80
+- identifier: 7ac93c9a-57c6-c0d0-ae81-3edbfe051c20
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 90
